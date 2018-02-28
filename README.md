@@ -1,4 +1,4 @@
-# Google-map-application-in-C-
+# Google-map-application-in-C#-
 
 Maps and Navigation System using Google maps API in Visual Studio (C#)
 
